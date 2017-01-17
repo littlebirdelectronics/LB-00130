@@ -1,4 +1,4 @@
-# Addressable RGB LED Ring
+# Addressable RGB LED Ring (24 LEDs)
 
 ## SKU: LB-00131
 
