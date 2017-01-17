@@ -23,7 +23,7 @@ Resources:
 
  - [Arduino Library](https://github.com/adafruit/Adafruit_NeoPixel)
  - [Raspberry Pi Library](https://github.com/jgarff/rpi_ws281x)
- - WS2812 Datasheet
+ - [WS2812 Datasheet](https://github.com/littlebirdelectronics/LB-00130/blob/master/datasheets/WS2812.pdf)
 
 
 ## Tags:
