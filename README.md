@@ -1,5 +1,5 @@
-# Addressable RGB LED Ring (24 LEDs)
-Part Number: LB-00131
+# [Addressable RGB LED Ring (24 LEDs)](https://littlebirdelectronics.com.au/products/addressable-rgb-led-ring-24-leds)
+Part Number: [LB-00131](https://littlebirdelectronics.com.au/products/addressable-rgb-led-ring-24-leds)
 
 ## Description:
 
