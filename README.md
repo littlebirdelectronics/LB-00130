@@ -9,4 +9,4 @@
 ---
 ## Tags
 
-RGB LED, Neopixel, WS2812, Ring, LED
+``RGB LED, Neopixel, WS2812, Ring, LED``
