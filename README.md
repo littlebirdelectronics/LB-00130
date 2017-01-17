@@ -2,11 +2,11 @@
 
 ## SKU: LB-00131
 
+## Description:
 
 
-## Description
 
----
-## Tags
+
+## Tags:
 
 ``RGB LED, Neopixel, WS2812, Ring, LED``
