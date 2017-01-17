@@ -22,8 +22,8 @@ Includes:
 
 Resources:
 
- - Arduino Library
- - Raspbery Pi Library
+ - [Arduino Library](https://github.com/adafruit/Adafruit_NeoPixel)
+ - [Raspbery Pi Library](https://github.com/jgarff/rpi_ws281x)
  - WS2812 Datasheet
 
 
