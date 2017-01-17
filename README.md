@@ -6,8 +6,8 @@
 
 This Addressable LED Ring contains 24 individually addressable 5mm x 5mm WS2812 RGB LEDs in a circular arrangement.
 Inside each LED package is a WS2812 driver, which lets you address each LED individually, and chain multiple LEDs together.
-The ring is perfect for making interactive projects such as, jewelry, spectacles or providing feedback for a rotary nob.
-The outside diameter of the ring is 66mm. Like most WS2812 RGB LED based boards, this product is compatible with the Adafruit Neopixel libraries. 
+The ring is perfect for making interactive projects such as, jewellery, spectacles or providing feedback for a rotary nob.
+The outside diameter of the ring is 66mm. Like most WS2812 RGB LED based boards, this product is compatible with the [Adafruit Neopixel](https://littlebirdelectronics.com.au/collections/neopixels) libraries. 
 
 
 Features: 
