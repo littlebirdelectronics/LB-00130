@@ -1,5 +1,5 @@
 # Addressable RGB LED Ring (24 LEDs)
-*SKU:* LB-00131
+Part Number: LB-00131
 
 ## Description:
 
