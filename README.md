@@ -1,8 +1,6 @@
 # [Addressable RGB LED Ring (24 LEDs)](https://littlebirdelectronics.com.au/products/addressable-rgb-led-ring-24-leds)
 Part Number: [LB-00131](https://littlebirdelectronics.com.au/products/addressable-rgb-led-ring-24-leds)
 
-<a href="https://littlebirdelectronics.com.au/products/addressable-rgb-led-ring-24-leds"><img src="https://github.com/littlebirdelectronics/LB-00130/blob/master/images/00130-01.png?raw=true" alt="Addressable RGB LED Ring (24 LEDs)" style="max-height:600px; max-width:600px;"></a>
-
 ## Description:
 
 This Addressable LED Ring contains 24 individually addressable 5mm x 5mm WS2812 RGB LEDs in a circular arrangement.
